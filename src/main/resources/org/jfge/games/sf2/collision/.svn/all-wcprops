@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/13/trunk/org.jfge.games.sf2/resources/org/jfge/games/sf2/collision
+END
+sf2FighterCollisions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/13/trunk/org.jfge.games.sf2/resources/org/jfge/games/sf2/collision/sf2FighterCollisions.xml
+END
+sf2ProjectileCollisions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/13/trunk/org.jfge.games.sf2/resources/org/jfge/games/sf2/collision/sf2ProjectileCollisions.xml
+END

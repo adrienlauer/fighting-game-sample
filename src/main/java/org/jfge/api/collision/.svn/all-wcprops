@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/collision
+END
+CollisionDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/collision/CollisionDetector.java
+END
+CollisionHandlerParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/collision/CollisionHandlerParser.java
+END
+CollisionDetectorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/collision/CollisionDetectorImpl.java
+END
+CollisionHandlerParserImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/collision/CollisionHandlerParserImpl.java
+END
+CollisionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/collision/CollisionHandler.java
+END
+CollisionHandlerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/collision/CollisionHandlerImpl.java
+END
+CollisionHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/collision/CollisionHandlerFactory.java
+END
+CollisionModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/collision/CollisionModule.java
+END
+.directory
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/collision/.directory
+END
+RectangleCollisionStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/collision/RectangleCollisionStrategy.java
+END

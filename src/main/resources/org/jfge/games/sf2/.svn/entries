@@ -1,0 +1,40 @@
+10
+
+dir
+24
+http://java-fighting-game-engine.googlecode.com/svn/trunk/org.jfge.games.sf2/resources/org/jfge/games/sf2
+http://java-fighting-game-engine.googlecode.com/svn
+
+
+
+2011-05-27T23:32:08.131656Z
+15
+hannes.bachmayr@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+48be52c3-0b4c-db91-fb91-264bf8867044
+
+arena
+dir
+
+fighter
+dir
+
+collision
+dir
+
+projectile
+dir
+

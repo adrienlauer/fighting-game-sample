@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/trunk/org.jfge/src/org/jfge/api/fighter
+END
+.directory
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/fighter/.directory
+END
+FighterFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/fighter/FighterFactoryImpl.java
+END
+InputQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/fighter/InputQueue.java
+END
+FighterParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/fighter/FighterParser.java
+END
+BufferedInputQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/fighter/BufferedInputQueue.java
+END
+FighterParserImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/fighter/FighterParserImpl.java
+END
+Fighter.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/fighter/Fighter.java
+END
+FighterState.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/fighter/FighterState.java
+END
+FighterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/19/trunk/org.jfge/src/org/jfge/api/fighter/FighterImpl.java
+END
+FighterStateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/19/trunk/org.jfge/src/org/jfge/api/fighter/FighterStateImpl.java
+END
+FighterModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/fighter/FighterModule.java
+END
+FighterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/fighter/FighterFactory.java
+END

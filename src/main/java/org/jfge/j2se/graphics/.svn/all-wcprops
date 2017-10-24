@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/19/trunk/org.jfge.j2se/src/org/jfge/j2se/graphics
+END
+J2SeColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/org.jfge.j2se/src/org/jfge/j2se/graphics/J2SeColor.java
+END
+J2SeGraphics.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/org.jfge.j2se/src/org/jfge/j2se/graphics/J2SeGraphics.java
+END
+J2SeImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/org.jfge.j2se/src/org/jfge/j2se/graphics/J2SeImage.java
+END
+J2SeRectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/org.jfge.j2se/src/org/jfge/j2se/graphics/J2SeRectangle.java
+END
+J2SeFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/org.jfge.j2se/src/org/jfge/j2se/graphics/J2SeFont.java
+END
+J2SeGraphicsModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/19/trunk/org.jfge.j2se/src/org/jfge/j2se/graphics/J2SeGraphicsModule.java
+END
+J2SeGraphicsFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/org.jfge.j2se/src/org/jfge/j2se/graphics/J2SeGraphicsFactory.java
+END
+J2SeGraphicsProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/19/trunk/org.jfge.j2se/src/org/jfge/j2se/graphics/J2SeGraphicsProvider.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/spi/graphics
+END
+Rectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/spi/graphics/Rectangle.java
+END
+Font.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/spi/graphics/Font.java
+END
+GraphicsFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/spi/graphics/GraphicsFactory.java
+END
+GraphicsProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/spi/graphics/GraphicsProvider.java
+END
+Color.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/spi/graphics/Color.java
+END
+Graphics.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/spi/graphics/Graphics.java
+END
+Image.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/spi/graphics/Image.java
+END

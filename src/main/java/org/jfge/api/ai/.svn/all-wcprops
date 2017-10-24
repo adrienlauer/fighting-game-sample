@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/ai
+END
+AiControllerParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/ai/AiControllerParser.java
+END
+AiControllerParserImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/ai/AiControllerParserImpl.java
+END
+AiController.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/ai/AiController.java
+END
+AiModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/ai/AiModule.java
+END
+AiControllerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/ai/AiControllerImpl.java
+END
+AiControllerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/ai/AiControllerFactory.java
+END

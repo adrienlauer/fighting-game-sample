@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/render
+END
+RenderModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/render/RenderModule.java
+END
+SpriteRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/render/SpriteRenderer.java
+END
+SpriteRendererImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/render/SpriteRendererImpl.java
+END

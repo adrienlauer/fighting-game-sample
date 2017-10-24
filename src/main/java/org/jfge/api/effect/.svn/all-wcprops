@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/effect
+END
+CollisionEffectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/effect/CollisionEffectImpl.java
+END
+ArenaEffectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/effect/ArenaEffectFactory.java
+END
+CollisionEffectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/effect/CollisionEffectFactory.java
+END
+EffectModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/effect/EffectModule.java
+END
+ArenaEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/effect/ArenaEffect.java
+END
+ArenaEffectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/effect/ArenaEffectImpl.java
+END
+CollisionEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/org.jfge/src/org/jfge/api/effect/CollisionEffect.java
+END
